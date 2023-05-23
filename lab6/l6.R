@@ -149,4 +149,4 @@ test_proport = function(alfa, n, succese, p0, tip_ip) {
   }
 }
 
-test_proport(0.05, 150, 20, 0.1, "s")
+test_proport(0.05, 150, 20, 0.1, "r")
